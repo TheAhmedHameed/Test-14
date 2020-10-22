@@ -1,4 +1,5 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
+
   <metaInfo>
     <property name="created">2020-02-29T13:33:07</property>
     <property name="ide">AndroidStudio</property>
@@ -6,6 +7,7 @@
     <property name="modified">2020-02-29T13:50:37</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
+  
   <colors>
     <option name="FILESTATUS_ADDED" value="22863a" />
     <option name="FILESTATUS_DELETED" value="6a737d" />
@@ -26,4 +28,5 @@
     <option name="FILESTATUS_changelistConflict" value="d73a49" />
     <option name="FILESTATUS_modifiedOutside" value="5cc5" />
   </colors>
+  
 </scheme>
