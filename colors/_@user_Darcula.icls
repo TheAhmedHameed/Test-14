@@ -8,7 +8,6 @@
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   
-  
   <colors>
     <option name="FILESTATUS_ADDED" value="50fa7b" />
     <option name="FILESTATUS_DELETED" value="6272a4" />
@@ -30,6 +29,5 @@
     <option name="FILESTATUS_changelistConflict" value="ff79c6" />
     <option name="FILESTATUS_modifiedOutside" value="bd93f9" />
   </colors>
-  
   
 </scheme>
